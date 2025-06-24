@@ -1,4 +1,4 @@
-https://i.ibb.co/mV985v0x/rakeebhasan-frontendwebdeveloper.jpg
+(/rakeebhasan-frontendwebdeveloper.jpg)
 ### Hi there 👋, I'm MD Rakeeb Hasan
 #### I am Professional Front End Developer
 ![I am Professional Front End Developer]
